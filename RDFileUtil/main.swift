@@ -27,6 +27,9 @@ extension RDFileUtil {
         let r = readFile(name: "hoge.txt").getJust()!
         
         print("\(r)")
+        
+        let f = RDFile(name: "test")
+        
     }
 }
 
