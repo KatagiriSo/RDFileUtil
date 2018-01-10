@@ -6,10 +6,11 @@
 //  Copyright © 2017年 Rodhos Soft. All rights reserved.
 //
 
+// hoge
+//fuga
+
 import Foundation
 
-
-// pp
 enum Node<T> {
     case element(T)
     indirect case composite([Node<T>])

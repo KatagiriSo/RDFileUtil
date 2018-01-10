@@ -6,6 +6,8 @@
 //  Copyright © 2017年 Rodhos Soft. All rights reserved.
 //
 
+// ooo
+
 import Foundation
 
 enum Maybe<T> {
