@@ -7,6 +7,7 @@
 //
 
 // hoge
+//fuga
 
 import Foundation
 
