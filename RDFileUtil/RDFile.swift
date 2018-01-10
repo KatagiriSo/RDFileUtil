@@ -8,6 +8,8 @@
 
 import Foundation
 
+
+// pp
 enum Node<T> {
     case element(T)
     indirect case composite([Node<T>])
